@@ -122,7 +122,7 @@ Update the `MainLayout` component to define a top bar with a branding logo and a
     <img class="logo" src="img/logo.svg" />
 
     <NavLink href="" class="nav-tab" Match="NavLinkMatch.All">
-        <img src="img/pizza-slice.svg" />
+        <img src="~/img/pizza-slice.svg" />
         <div>Get Pizza</div>
     </NavLink>
 </div>
